@@ -41,6 +41,7 @@
 [linkedin]: https://www.linkedin.com/in/felipemelendez/
 
 <p>Number of Visitors:</p>
+
 ![Visitor Count](https://profile-counter.glitch.me/{felipemelendez}/count.svg)
 
 </div>
