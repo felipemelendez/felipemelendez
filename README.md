@@ -42,6 +42,8 @@
 
 [![HitCount](http://hits.dwyl.com/felipemelendez/felipemelendez.svg?style=flat-square)](http://hits.dwyl.com/felipemelendez/felipemelendez)
 
+![Visitor Count](https://profile-counter.glitch.me/{felipemelendez}/count.svg)
+
 </div>
 
 
