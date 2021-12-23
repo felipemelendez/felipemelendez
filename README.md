@@ -40,6 +40,7 @@
 
 [linkedin]: https://www.linkedin.com/in/felipemelendez/
 
+[![HitCount](http://hits.dwyl.com/felipemelendez/felipemelendez.svg?style=flat-square)](http://hits.dwyl.com/felipemelendez/felipemelendez)
 
 </div>
 
