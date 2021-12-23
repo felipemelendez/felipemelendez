@@ -40,9 +40,11 @@
 
 [linkedin]: https://www.linkedin.com/in/felipemelendez/
 
-<p>Number of Visitors:</p>
+<p>Page Views:</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{felipemelendez}/count.svg)
+
+<p>Unique Visitors:</p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/felipemelendez/felipemelendez)](https://felipemelendez.com)
 
