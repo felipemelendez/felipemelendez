@@ -1,5 +1,3 @@
-### Felipe Melendez
-
 <div align="center">
 <h1>Felipe Melendez</h1>
 
@@ -7,7 +5,7 @@
 
 
 
-## Currently Working on
+## Currently Working on:
 <div align="center">
   <a href="https://github.com/felipemelendez/PracticeProblems">
     <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/view_on_github.png" height=100 width=258> 
@@ -18,6 +16,7 @@
 
 <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="67em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
 <img height="62em" src="https://seeklogo.com/images/U/uikit-logo-8CE34FE030-seeklogo.com.png"/>
+<img height="62em" src="https://imgbin.com/png/WcVjdck9/javascript-logo-html-comment-blog-png"/>
 
 </br>
 
