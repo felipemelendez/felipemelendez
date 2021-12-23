@@ -44,6 +44,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{felipemelendez}/count.svg)
 
+[![Visits Badge](https://badges.pufler.dev/visits/felipemelendez/felipemelendez)](https://felipemelendez.com)
+
 </div>
 
 
