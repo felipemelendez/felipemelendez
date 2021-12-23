@@ -21,7 +21,7 @@
 <img height="62em" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
 <img height="62em" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"/>
 <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> 
-![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
+<img height="62em" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
 
 </br>
 
