@@ -41,7 +41,6 @@
 [linkedin]: https://www.linkedin.com/in/felipemelendez/
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=felipemelendez.felipemelendez)
 
 </div>
 
