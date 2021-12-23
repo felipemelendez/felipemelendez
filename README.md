@@ -15,7 +15,7 @@
 ## Skills and Tools I use
 
 <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
-<img height="62em" src="https://seeklogo.com/images/U/uikit-logo-8CE34FE030-seeklogo.com.png"/> <img height="62em" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/>
+<img height="62em" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/>
 
 </br>
 
