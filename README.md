@@ -7,8 +7,8 @@
 
 ## Currently Working on:
 <div align="center">
-  <a href="https://github.com/felipemelendez/PracticeProblems">
-    <img src="https://github.com/JamesSedlacek/iOS-Portfolio/blob/main/Images/Other/view_on_github.png" height=100 width=258> 
+  <a href="https://findtribe.app">
+    <img src="https://res.cloudinary.com/findtribe/image/upload/v1702903863/dg9rq7dqpjm3nymmjqc0.png" height=100 width=258> 
   </a>
  </div><br>
 
