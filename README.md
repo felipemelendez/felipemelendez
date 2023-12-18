@@ -28,15 +28,6 @@
 
 </br>
 
-## Github Stats
-<p>
-  <a href="https://github.com/felipemelendez">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemelendez&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
-  </a>
-</p>
-
-</br>
-
 ## Connect with Me:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
