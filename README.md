@@ -1,16 +1,16 @@
 <div align="center">
 <h1>Felipe Melendez</h1>
 
-
-
-
+</br>
 
 ## Currently Working on:
 <div align="center">
   <a href="https://findtribe.app">
     <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png" height=102 width=150> 
   </a>
- </div><br>
+ </div>
+
+ </br>
 
 ## Skills and Tools I use
 <img height="62em" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
