@@ -8,7 +8,7 @@
 ## Currently Working on:
 <div align="center">
   <a href="https://findtribe.app">
-    <img src="https://res.cloudinary.com/findtribe/image/upload/v1702903863/dg9rq7dqpjm3nymmjqc0.png" height=100 width=100> 
+    <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png" height=100 width=100> 
   </a>
  </div><br>
 
