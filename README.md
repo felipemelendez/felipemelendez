@@ -1,5 +1,6 @@
 <div align="center">
 <h1>Felipe Melendez</h1>
+ <img src="https://res.cloudinary.com/findtribe/image/upload/v1735304016/s4cysfun7uie9tivwepz.png" height=50 width=370> 
 
 </br>
 
