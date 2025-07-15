@@ -39,7 +39,7 @@
 
 ---
 
-<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">🧰 Tech Arsenal</h3>
+<h3>🧰 Tech Arsenal</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"            height="55" alt="Python"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="55" alt="C"/>&nbsp;
@@ -56,7 +56,7 @@
 
 ---
 
-<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">✨ Highlights</h3>
+<h3>✨ Highlights</h3>
 
 - 🐞 **Bug-Swatter Extraordinaire:** Nothing thrills me more than hunting down elusive bugs and squashing them for good.  
 - 🤖 **AI Swiss-Army Knife:** I'm incredibly versatile with AI, obsessed with pushing its boundaries and discovering how far it can take us.  
@@ -78,7 +78,7 @@
 </p>
 -->
 
-<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">💼 Where I Make Impact</h3>
+<h3>💼 Where I Make Impact</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🏢_Pilot-Full--Stack_Engineer-2E86AB?style=for-the-badge&logo=&logoColor=white" alt="Pilot"/>
@@ -104,27 +104,27 @@
 
 ---
 
-<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">🌱 Exploring Next</h3>
+<h3>🌱 Exploring Next</h3>
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-<h3 style="text-decoration: none; border-bottom: none;">🤖 AI-Driven Workflows</h3>
+<h3>🤖 AI-Driven Workflows</h3>
 
 *Helps me level-up faster and tackle increasingly complex problems.*
 
 </td>
 <td align="center" width="33%">
 
-<h3 style="text-decoration: none; border-bottom: none;">📡 GPS & Bluetooth Mesh</h3>
+<h3>📡 GPS & Bluetooth Mesh</h3>
 
 *Building ultra-reliable indoor/outdoor positioning for massive crowds.*
 
 </td>
 <td align="center" width="33%">
 
-<h3 style="text-decoration: none; border-bottom: none;">🕶️ Augmented Reality</h3>
+<h3>🕶️ Augmented Reality</h3>
 
 *Letting people discover hidden gems around them and learn in delightful ways.*
 
@@ -134,7 +134,7 @@
 
 ---
 
-<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">🤝 Let's Connect</h3>
+<h3>🤝 Let's Connect</h3>
 
 <p align="center">
   &nbsp;
