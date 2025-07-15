@@ -65,7 +65,7 @@
 
 ---
 
-<!-- 
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -73,11 +73,8 @@
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=felipemelendez&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipemelendez&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 </p>
- -->
+
 
 
 <h3>💼 Where I Make Impact</h3>
