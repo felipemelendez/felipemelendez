@@ -41,18 +41,19 @@
 ---
 
 ## 🧰 Tech Arsenal
-
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"            height="55" alt="Python"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="55" alt="C"/>
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="55" alt="TypeScript"/>
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"   height="55" alt="Ruby"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"         height="55" alt="Node.js"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"    height="55" alt="React"/>
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"           height="55" alt="Vue.js"/>
-<img src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg" height="55" alt="Expo"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="55" alt="PostgreSQL"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"     height="55" alt="Firebase"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg"         height="55" alt="GitHub"/>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"            height="55" alt="Python"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="55" alt="C"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="55" alt="TypeScript"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"   height="55" alt="Ruby"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"         height="55" alt="Node.js"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"    height="55" alt="React"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"           height="55" alt="Vue.js"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg" height="55" alt="Expo"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="55" alt="PostgreSQL"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"     height="55" alt="Firebase"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg"         height="55" alt="GitHub"/>
+</p>
 
 ---
 
