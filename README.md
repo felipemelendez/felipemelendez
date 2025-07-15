@@ -25,7 +25,7 @@
 
 ---
 
-<h2 style="border-bottom: none !important; text-decoration: none !important; padding-bottom: 0 !important; margin-bottom: 16px;">🚀 Currently Building</h2>
+<h2 style="text-decoration: none; border-bottom: none;">🚀 Currently Building</h2>
 <div align="center">
   <a href="https://findtribe.app">
     <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png"
