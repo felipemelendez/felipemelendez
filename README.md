@@ -26,10 +26,6 @@
 ---
 
 <h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">🚀 Currently Building</h3>
-
-<div style="font-size: 1.5em; font-weight: bold; margin: 1em 0; text-decoration: none; border: none;">
-  <strong>🚀 Currently Building</strong>
-</div>
 <div align="center">
   <a href="https://findtribe.app">
     <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png"
@@ -43,7 +39,7 @@
 
 ---
 
-<h2 style="text-decoration: none; border-bottom: none;">🧰 Tech Arsenal</h2>
+<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">🧰 Tech Arsenal</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"            height="55" alt="Python"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="55" alt="C"/>&nbsp;
@@ -82,7 +78,7 @@
 </p>
 -->
 
-<h2 style="text-decoration: none; border-bottom: none;">💼 Where I Make Impact</h2>
+<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">>💼 Where I Make Impact</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🏢_Pilot-Full--Stack_Engineer-2E86AB?style=for-the-badge&logo=&logoColor=white" alt="Pilot"/>
@@ -108,7 +104,7 @@
 
 ---
 
-<h2 style="text-decoration: none; border-bottom: none;">🌱 Exploring Next</h2>
+<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">🌱 Exploring Next</h3>
 
 <table align="center">
 <tr>
@@ -138,7 +134,7 @@
 
 ---
 
-<h2 style="text-decoration: none; border-bottom: none;">🤝 Let's Connect</h2>
+<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">🤝 Let's Connect</h3>
 
 <p align="center">
   &nbsp;
