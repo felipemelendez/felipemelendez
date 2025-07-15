@@ -25,7 +25,7 @@
 
 ---
 
-<h2>🚀 Currently Building</h2>
+<h2 style="text-decoration: none; border-bottom: none;">🚀 Currently Building</h2>
 <div align="center">
   <a href="https://findtribe.app">
     <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png"
@@ -81,7 +81,7 @@ markdown<!-- ──────────────────────�
 
 ---
 
-<h2>🧰 Tech Arsenal</h2>
+<h2 style="text-decoration: none; border-bottom: none;">🧰 Tech Arsenal</h2>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"            height="55" alt="Python"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="55" alt="C"/>&nbsp;
@@ -98,7 +98,7 @@ markdown<!-- ──────────────────────�
 
 ---
 
-<h2>✨ Highlights</h2>
+<h2 style="text-decoration: none; border-bottom: none;">✨ Highlights</h2>
 
 - 🐞 **Bug-Swatter Extraordinaire:** Nothing thrills me more than hunting down elusive bugs and squashing them for good.  
 - 🤖 **AI Swiss-Army Knife:** I’m incredibly versatile with AI, obsessed with pushing its boundaries and discovering how far it can take us.  
@@ -120,7 +120,7 @@ markdown<!-- ──────────────────────�
 </p>
 -->
 
-<h2>💼 Where I Make Impact</h2>
+<h2 style="text-decoration: none; border-bottom: none;">💼 Where I Make Impact</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🏢_Pilot-Full--Stack_Engineer-2E86AB?style=for-the-badge&logo=&logoColor=white" alt="Pilot"/>
@@ -146,7 +146,8 @@ markdown<!-- ──────────────────────�
 
 ---
 
-<h2>🌱 Exploring Next</h2>
+<h2 style="text-decoration: none; border-bottom: none;">🌱 Exploring Next</h2>
+
 
 <table align="center">
 <tr>
@@ -176,7 +177,7 @@ markdown<!-- ──────────────────────�
 
 ---
 
-<h2>🤝 Let’s Connect</h2>
+<h2 style="text-decoration: none; border-bottom: none;">🤝 Let's Connect</h2>
 
 <p align="center">
   &nbsp;
