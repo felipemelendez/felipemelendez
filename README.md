@@ -8,8 +8,6 @@
        alt="FindTribe banner" width="370" height="50"/>
 </p>
 
-<h1 align="center">👋 Hey there, I’m <strong>Felipe Meléndez</strong>!</h1>
-
 <p align="center">
   Founder&nbsp;·&nbsp;Full-Stack Engineer&nbsp;·&nbsp;Festival Aficionado<br/>
   <em>Turning massive crowds into unforgettable, connected experiences.</em>
@@ -20,7 +18,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/felipemelendez/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://findtribe.app"><img src="https://img.shields.io/badge/FindTribe-Live Demo-ff69b4?logo=product-hunt&style=flat-square" alt="FindTribe Demo"/></a>
+  <a href="https://findtribe.app"><img src="https://img.shields.io/badge/FindTribe-Website-ff69b4?logo=product-hunt&style=flat-square" alt="FindTribe Demo"/></a>
 </p>
 
 ---
@@ -92,11 +90,9 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:hello@findtribe.app"><img src="https://img.shields.io/badge/Email-hello@findtribe.app-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/felipemelendez/"><img src="https://img.shields.io/badge/LinkedIn-Felipe Meléndez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://findtribe.app"><img src="https://img.shields.io/badge/%F0%9F%93%8A Try FindTribe-ff69b4?style=for-the-badge" alt="FindTribe"/></a>
 </p>
 
 <p align="center">
