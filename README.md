@@ -33,7 +33,6 @@
   </a>
 </div>
 
-> **FindTribe**  
 > *FindTribe turns chaotic events into seamless experiences with smart maps and real-time updates. Think of it like **Google Maps for events.***  
 
 <p align="center"><strong>🧭 <em>Get lost in the moment, not the crowd</em> 🧭</strong></p>
