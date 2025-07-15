@@ -25,7 +25,7 @@
 
 ---
 
-<h3 style="font-size: 11.5em; font-weight: bold; text-decoration: none; border: none;">🚀 Currently Building</h3>
+<h3>🚀 Currently Building</h3>
 <div align="center">
   <a href="https://findtribe.app">
     <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png"
