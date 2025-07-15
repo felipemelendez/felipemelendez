@@ -25,7 +25,7 @@
 
 ---
 
-**🚀 Currently Building**
+<h2>🚀 Currently Building</h2>
 <div align="center">
   <a href="https://findtribe.app">
     <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png"
@@ -39,7 +39,49 @@
 
 ---
 
-**🧰 Tech Arsenal**
+Here's your README with larger headings but no underlines using HTML styling:
+markdown<!-- ───────────────────────────────────────────────────────────── -->
+<!--                          README.md                           -->
+<!--      Felipe "FindTribe" Meléndez · Software Visionary        -->
+<!-- ───────────────────────────────────────────────────────────── -->
+
+<p align="center">
+  <img src="https://res.cloudinary.com/findtribe/image/upload/v1735304299/ylmynmm99tfocefoapkk.png"
+       alt="FindTribe banner" width="370" height="50"/>
+</p>
+
+<p align="center">
+  Founder&nbsp;·&nbsp;Full-Stack Engineer&nbsp;·&nbsp;Festival Aficionado<br/>
+  <em>Turning massive crowds into unforgettable, connected experiences.</em>
+</p>
+
+<!--   
+<p align="center">
+  <a href="https://github.com/felipemelendez"><img src="https://img.shields.io/github/followers/felipemelendez?label=Follow&style=social" alt="GitHub followers"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/felipemelendez/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://findtribe.app"><img src="https://img.shields.io/badge/FindTribe-Website-ff69b4?logo=product-hunt&style=flat-square" alt="FindTribe Website"/></a>
+</p>
+ -->
+
+---
+
+<h2 style="text-decoration: none; border-bottom: none;">🚀 Currently Building</h2>
+<div align="center">
+  <a href="https://findtribe.app">
+    <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png"
+         alt="FindTribe App Logo" width="150" height="102"/>
+  </a>
+</div>
+
+> *FindTribe turns chaotic events into seamless experiences with smart maps and real-time updates. Think of it like **Google Maps for events.***  
+
+<p align="center"><strong>🧭 <em>Get lost in the moment, not the crowd</em> 🧭</strong></p>
+
+---
+
+<h2>🧰 Tech Arsenal</h2>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"            height="55" alt="Python"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="55" alt="C"/>&nbsp;
@@ -56,7 +98,7 @@
 
 ---
 
-**✨ Highlights**
+<h2>✨ Highlights</h2>
 
 - 🐞 **Bug-Swatter Extraordinaire:** Nothing thrills me more than hunting down elusive bugs and squashing them for good.  
 - 🤖 **AI Swiss-Army Knife:** I’m incredibly versatile with AI, obsessed with pushing its boundaries and discovering how far it can take us.  
@@ -78,7 +120,7 @@
 </p>
 -->
 
-**💼 Where I Make Impact**
+<h2>💼 Where I Make Impact</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🏢_Pilot-Full--Stack_Engineer-2E86AB?style=for-the-badge&logo=&logoColor=white" alt="Pilot"/>
@@ -104,7 +146,7 @@
 
 ---
 
-**🌱 Exploring Next**
+<h2>🌱 Exploring Next</h2>
 
 <table align="center">
 <tr>
@@ -134,7 +176,7 @@
 
 ---
 
-**🤝 Let’s Connect**
+<h2>🤝 Let’s Connect</h2>
 
 <p align="center">
   &nbsp;
