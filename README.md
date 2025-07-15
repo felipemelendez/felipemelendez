@@ -102,25 +102,6 @@
 📱 **Smart event navigation** • 🧭 **Real-time crowd insights** • 🎯 **Google Maps for festivals**
 </div>
 
-## 💼 Where I Make Impact
-
-<div align="center">
-
-### 🏢 **Pilot** · Full-Stack Engineer
-*Building enterprise solutions that scale*
-
-🔧 **Scaling robust systems** • 💼 **Solving complex challenges** • 🚀 **Delivering production code**
-
----
-
-### 🎪 **FindTribe** · Founder & Lead Developer  
-*Revolutionizing event experiences*
-
-📱 **Smart event navigation** • 🧭 **Real-time crowd insights** • 🎯 **Google Maps for festivals**
-
-</div>
-
-
 ---
 
 ## 🌱 Exploring Next
