@@ -106,30 +106,6 @@
 
 ## 🌱 Exploring Next
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🤖_AI--Driven_Workflows-Learning-9b59b6?style=for-the-badge&logo=&logoColor=white" alt="AI Workflows"/>
-
-*Helps me level-up faster and tackle increasingly complex problems.*
-
-<br/>
-
-<img src="https://img.shields.io/badge/📡_GPS_&_Bluetooth_Mesh-Building-3498db?style=for-the-badge&logo=&logoColor=white" alt="GPS & Bluetooth"/>
-
-*Building ultra-reliable indoor/outdoor positioning for massive crowds.*
-
-<br/>
-
-<img src="https://img.shields.io/badge/🕶️_Augmented_Reality-Exploring-e67e22?style=for-the-badge&logo=&logoColor=white" alt="Augmented Reality"/>
-
-*Letting people discover hidden gems around them and learn in delightful ways.*
-
-</div>
-
----
-
-## 🌱 Exploring Next
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
@@ -155,50 +131,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 🌱 Exploring Next
-
-<div align="center">
-
-**🤖 AI-Driven Workflows**  
-*Helps me level-up faster and tackle increasingly complex problems.*
-
-<br/>
-
-**📡 GPS & Bluetooth Mesh**  
-*Building ultra-reliable indoor/outdoor positioning for massive crowds.*
-
-<br/>
-
-**🕶️ Augmented Reality**  
-*Letting people discover hidden gems around them and learn in delightful ways.*
-
-</div>
-
----
-
-## 🌱 Exploring Next
-
-<p align="center">
-<strong>🤖 AI-Driven Workflows</strong><br/>
-<em>Helps me level-up faster and tackle increasingly complex problems.</em>
-</p>
-
-<p align="center">••••••••••••••••••••••••••••••••••••••••••••••••••</p>
-
-<p align="center">
-<strong>📡 GPS & Bluetooth Mesh</strong><br/>
-<em>Building ultra-reliable indoor/outdoor positioning for massive crowds.</em>
-</p>
-
-<p align="center">••••••••••••••••••••••••••••••••••••••••••••••••••</p>
-
-<p align="center">
-<strong>🕶️ Augmented Reality</strong><br/>
-<em>Letting people discover hidden gems around them and learn in delightful ways.</em>
-</p>
 
 ---
 
