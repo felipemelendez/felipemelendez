@@ -13,13 +13,15 @@
   <em>Turning massive crowds into unforgettable, connected experiences.</em>
 </p>
 
+<!--   
 <p align="center">
   <a href="https://github.com/felipemelendez"><img src="https://img.shields.io/github/followers/felipemelendez?label=Follow&style=social" alt="GitHub followers"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/felipemelendez/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://findtribe.app"><img src="https://img.shields.io/badge/FindTribe-Website-ff69b4?logo=product-hunt&style=flat-square" alt="FindTribe Demo"/></a>
+  <a href="https://findtribe.app"><img src="https://img.shields.io/badge/FindTribe-Website-ff69b4?logo=product-hunt&style=flat-square" alt="FindTribe Website"/></a>
 </p>
+ -->
 
 ---
 
