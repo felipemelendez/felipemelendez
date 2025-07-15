@@ -111,37 +111,19 @@
 ## 💼 Where I Make Impact
 
 <div align="center">
-<table>
-<tr>
-<td width="45%" align="center">
 
-<div>
-<h3>🏢&nbsp;&nbsp;<strong>Pilot</strong></h3>
-<p><strong>Full-Stack Engineer</strong><br/>
-<em>Building enterprise solutions</em></p>
+### 🏢 **Pilot** · Full-Stack Engineer
+*Building enterprise solutions that scale*
 
-<p>🔧&nbsp;&nbsp;Scaling robust systems<br/>
-💼&nbsp;&nbsp;Solving complex challenges<br/>
-🚀&nbsp;&nbsp;Delivering production code</p>
-</div>
+🔧 **Scaling robust systems** • 💼 **Solving complex challenges** • 🚀 **Delivering production code**
 
-</td>
-<td width="10%"></td>
-<td width="45%" align="center">
+---
 
-<div>
-<h3>🎪&nbsp;&nbsp;<strong>FindTribe</strong></h3>
-<p><strong>Founder & Lead Developer</strong><br/>
-<em>Revolutionizing event experiences</em></p>
+### 🎪 **FindTribe** · Founder & Lead Developer  
+*Revolutionizing event experiences*
 
-<p>📱&nbsp;&nbsp;Smart event navigation<br/>
-🧭&nbsp;&nbsp;Real-time crowd insights<br/>
-🎯&nbsp;&nbsp;Google Maps for festivals</p>
-</div>
+📱 **Smart event navigation** • 🧭 **Real-time crowd insights** • 🎯 **Google Maps for festivals**
 
-</td>
-</tr>
-</table>
 </div>
 
 
