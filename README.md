@@ -82,48 +82,24 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/🏢_Pilot-Full--Stack_Engineer-2E86AB?style=for-the-badge&logo=&logoColor=white" alt="Pilot"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🎪_FindTribe-Founder_&_Lead_Dev-FF6B6B?style=for-the-badge&logo=&logoColor=white" alt="FindTribe"/>
 </p>
 
-<table align="center">
-<tr>
-<td align="center" width="48%">
-
-**Building enterprise solutions**
-> 🔧 Scaling robust systems  
-> 💼 Solving complex challenges  
-> 🚀 Delivering production code
-
-</td>
-<td width="4%"></td>
-<td align="center" width="48%">
-
-**Revolutionizing event experiences**
-> 📱 Smart event navigation  
-> 🧭 Real-time crowd insights  
-> 🎯 Google Maps for festivals
-
-</td>
-</tr>
-</table>
-
-## 💼 Where I Make Impact
-
 <div align="center">
-
-### 🏢 **Pilot** · Full-Stack Engineer
-*Building enterprise solutions that scale*
+<em>Building enterprise solutions that scale</em>
 
 🔧 **Scaling robust systems** • 💼 **Solving complex challenges** • 🚀 **Delivering production code**
+</div>
 
 ---
 
-### 🎪 **FindTribe** · Founder & Lead Developer  
-*Revolutionizing event experiences*
+<p align="center">
+<img src="https://img.shields.io/badge/🎪_FindTribe-Founder_&_Lead_Dev-FF6B6B?style=for-the-badge&logo=&logoColor=white" alt="FindTribe"/>
+</p>
+
+<div align="center">
+<em>Revolutionizing event experiences</em>
 
 📱 **Smart event navigation** • 🧭 **Real-time crowd insights** • 🎯 **Google Maps for festivals**
-
 </div>
 
 
