@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Currently Building
+**🚀 Currently Building**
 <div align="center">
   <a href="https://findtribe.app">
     <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png"
@@ -39,7 +39,7 @@
 
 ---
 
-## 🧰 Tech Arsenal
+**🧰 Tech Arsenal**
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"            height="55" alt="Python"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="55" alt="C"/>&nbsp;
@@ -56,7 +56,7 @@
 
 ---
 
-## ✨ Highlights
+**✨ Highlights**
 
 - 🐞 **Bug-Swatter Extraordinaire:** Nothing thrills me more than hunting down elusive bugs and squashing them for good.  
 - 🤖 **AI Swiss-Army Knife:** I’m incredibly versatile with AI, obsessed with pushing its boundaries and discovering how far it can take us.  
@@ -78,7 +78,7 @@
 </p>
 -->
 
-## 💼 Where I Make Impact
+**💼 Where I Make Impact**
 
 <p align="center">
 <img src="https://img.shields.io/badge/🏢_Pilot-Full--Stack_Engineer-2E86AB?style=for-the-badge&logo=&logoColor=white" alt="Pilot"/>
@@ -104,7 +104,7 @@
 
 ---
 
-## 🌱 Exploring Next
+**🌱 Exploring Next**
 
 <table align="center">
 <tr>
@@ -134,7 +134,7 @@
 
 ---
 
-## 🤝 Let’s Connect
+**🤝 Let’s Connect**
 
 <p align="center">
   &nbsp;
