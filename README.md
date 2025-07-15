@@ -108,6 +108,42 @@
 </tr>
 </table>
 
+## 💼 Where I Make Impact
+
+<div align="center">
+<table>
+<tr>
+<td width="45%" align="center">
+
+<div>
+<h3>🏢&nbsp;&nbsp;<strong>Pilot</strong></h3>
+<p><strong>Full-Stack Engineer</strong><br/>
+<em>Building enterprise solutions</em></p>
+
+<p>🔧&nbsp;&nbsp;Scaling robust systems<br/>
+💼&nbsp;&nbsp;Solving complex challenges<br/>
+🚀&nbsp;&nbsp;Delivering production code</p>
+</div>
+
+</td>
+<td width="10%"></td>
+<td width="45%" align="center">
+
+<div>
+<h3>🎪&nbsp;&nbsp;<strong>FindTribe</strong></h3>
+<p><strong>Founder & Lead Developer</strong><br/>
+<em>Revolutionizing event experiences</em></p>
+
+<p>📱&nbsp;&nbsp;Smart event navigation<br/>
+🧭&nbsp;&nbsp;Real-time crowd insights<br/>
+🎯&nbsp;&nbsp;Google Maps for festivals</p>
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
 
 ---
 
