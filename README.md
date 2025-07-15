@@ -78,28 +78,27 @@
 </p>
 -->
 
+
 ## 💼 Where I Make Impact
+
+<div align="center">
 
 <p align="center">
 <img src="https://img.shields.io/badge/🏢_Pilot-Full--Stack_Engineer-2E86AB?style=for-the-badge&logo=&logoColor=white" alt="Pilot"/>
 </p>
-
-<div align="center">
-<em>Building enterprise solutions that scale</em>
+*Building enterprise solutions that scale*
 
 🔧 **Scaling robust systems** • 💼 **Solving complex challenges** • 🚀 **Delivering production code**
-</div>
 
 ---
 
 <p align="center">
 <img src="https://img.shields.io/badge/🎪_FindTribe-Founder_&_Lead_Dev-FF6B6B?style=for-the-badge&logo=&logoColor=white" alt="FindTribe"/>
-</p>
-
-<div align="center">
-<em>Revolutionizing event experiences</em>
+</p> 
+*Revolutionizing event experiences*
 
 📱 **Smart event navigation** • 🧭 **Real-time crowd insights** • 🎯 **Google Maps for festivals**
+
 </div>
 
 
