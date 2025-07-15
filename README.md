@@ -56,7 +56,7 @@
 
 ---
 
-<h2 style="text-decoration: none; border-bottom: none;">✨ Highlights</h2>
+<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">✨ Highlights</h3>
 
 - 🐞 **Bug-Swatter Extraordinaire:** Nothing thrills me more than hunting down elusive bugs and squashing them for good.  
 - 🤖 **AI Swiss-Army Knife:** I'm incredibly versatile with AI, obsessed with pushing its boundaries and discovering how far it can take us.  
@@ -78,7 +78,7 @@
 </p>
 -->
 
-<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">>💼 Where I Make Impact</h3>
+<h3 style="font-size: 1.5em; font-weight: bold; text-decoration: none; border: none;">💼 Where I Make Impact</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🏢_Pilot-Full--Stack_Engineer-2E86AB?style=for-the-badge&logo=&logoColor=white" alt="Pilot"/>
