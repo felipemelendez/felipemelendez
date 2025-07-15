@@ -65,6 +65,7 @@
 
 ---
 
+<!-- 
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -76,6 +77,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipemelendez&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 </p>
+ -->
+
 
 <h3>💼 Where I Make Impact</h3>
 
