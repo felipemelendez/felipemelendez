@@ -1,57 +1,107 @@
-<div align="center">
+<!-- ───────────────────────────────────────────────────────────── -->
+<!--                          README.md                           -->
+<!--      Felipe “FindTribe” Meléndez · Software Visionary        -->
+<!-- ───────────────────────────────────────────────────────────── -->
 
-  <!-- ──────────────── HEADER ──────────────── -->
+<p align="center">
   <img src="https://res.cloudinary.com/findtribe/image/upload/v1735304299/ylmynmm99tfocefoapkk.png"
-       height="50" width="370" alt="FindTribe banner"/>
+       alt="FindTribe banner" width="370" height="50"/>
+</p>
 
-  <br/>
+<h1 align="center">👋 Hey there, I’m <strong>Felipe Meléndez</strong>!</h1>
 
-  ## Currently Working on:
+<p align="center">
+  Founder&nbsp;·&nbsp;Full-Stack Engineer&nbsp;·&nbsp;Festival Aficionado<br/>
+  <em>Turning massive crowds into unforgettable, connected experiences.</em>
+</p>
 
-  <div align="center">
-    <a href="https://findtribe.app">
-      <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png"
-           height="102" width="150" alt="FindTribe app logo"/>
-    </a>
-  </div>
+<p align="center">
+  <a href="https://github.com/felipemelendez"><img src="https://img.shields.io/github/followers/felipemelendez?label=Follow&style=social" alt="GitHub followers"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/felipemelendez/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://findtribe.app"><img src="https://img.shields.io/badge/FindTribe-Live Demo-ff69b4?logo=product-hunt&style=flat-square" alt="FindTribe Demo"/></a>
+</p>
 
-  <br/>
+---
 
-  ## Skills and Tools I use
-
-  <img height="62" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"/>
-  <img height="62" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C"/>
-  <img height="62" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"/>
-  <img height="62" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="Ruby"/>
-  <img height="62" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"/>
-  <img height="62" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3"/>
-  <img height="62" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React"/>
-  <img height="62" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js"/>
-  <img height="62" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL"/>
-  <img height="62" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js"/>
-  <img height="62" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg" alt="Expo"/>
-  <img height="62" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"/>
-
-  <br/>
-
-  ## Connect with Me
-
-  [<img alt="LinkedIn"
-        src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/felipemelendez/)
-
-  <!-- ────────────── COUNTERS ────────────── -->
-  <div>
-
-  <!-- 👁 Total profile views -->
-  <img src="https://komarev.com/ghpvc/?username=felipemelendez&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square"
-       alt="Profile views"/>
-
-  <!-- 🙋‍♂️ Unique visitors -->
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/felipemelendez/felipemelendez?color=0e75b6&style=flat-square"
-         alt="Unique visitors"/>
+## 🚀 Currently Building
+<div align="center">
+  <a href="https://findtribe.app">
+    <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png"
+         alt="FindTribe App Logo" width="150" height="102"/>
   </a>
-
-  </div>
-
 </div>
+
+> **FindTribe**  
+> *FindTribe turns chaotic events into seamless experiences with smart maps and real-time updates. Think of it like **Google Maps for events.***  
+
+<p align="center"><strong><em>🧭 Get lost in the moment, not the crowd 🧭</em></strong></p>
+
+---
+
+## 🧰 Tech Arsenal
+
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"            height="55" alt="Python"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="55" alt="C"/>
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="55" alt="TypeScript"/>
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"   height="55" alt="Ruby"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"         height="55" alt="Node.js"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"    height="55" alt="React"/>
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"           height="55" alt="Vue.js"/>
+<img src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg" height="55" alt="Expo"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="55" alt="PostgreSQL"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"     height="55" alt="Firebase"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg"         height="55" alt="GitHub"/>
+
+---
+
+## ✨ Highlights
+
+- 🐞 **Bug-Swatter Extraordinaire:** Nothing thrills me more than hunting down elusive bugs and squashing them for good.  
+- 🤖 **AI Swiss-Army Knife:** I’m incredibly versatile with AI, obsessed with pushing its boundaries and discovering how far it can take us.  
+- 🌌 **Creative Problem Solver:** My best ideas spark while I’m stretched out on the grass, gazing at the stars and wondering *“what if…?”*  
+- 🐾 **Golden Retriever Enthusiast:** Proud dad to two playful goldens—expert fetch partner and master of the belly-rub.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipemelendez&show_icons=true&theme=tokyonight&hide_title=true" alt="Felipe’s GitHub stats" height="165"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=felipemelendez&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=felipemelendez&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+</p>
+
+---
+
+## 🌱 Exploring Next
+
+| 🚀 Focus Area | Why It Fires Me Up |
+|--------------|--------------------|
+| **AI-Driven Workflows** 🤖 | Helps me level-up faster and tackle increasingly complex problems. |
+| **GPS & Bluetooth Mesh** 📡 | Building ultra-reliable indoor/outdoor positioning for massive crowds. |
+| **Augmented Reality** 🕶️ | Letting people discover hidden gems around them and learn in delightful ways. |
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:hello@findtribe.app"><img src="https://img.shields.io/badge/Email-hello@findtribe.app-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/felipemelendez/"><img src="https://img.shields.io/badge/LinkedIn-Felipe Meléndez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://findtribe.app"><img src="https://img.shields.io/badge/%F0%9F%93%8A Try FindTribe-ff69b4?style=for-the-badge" alt="FindTribe"/></a>
+</p>
+
+<p align="center">
+  <em>“Great events don’t just happen—they’re engineered.”</em><br/>
+  <strong>— Felipe Meléndez</strong>
+</p>
+
+<!-- ───────────────────────────────────────────────────────────── -->
