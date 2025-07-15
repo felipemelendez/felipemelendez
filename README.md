@@ -64,7 +64,7 @@
 - 🐾 **Golden Retriever Enthusiast:** Proud dad to two playful goldens—expert fetch partner and master of the belly-rub.
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -76,6 +76,37 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipemelendez&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 </p>
+-->
+
+## 💼 Where I Make Impact
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🏢 **Pilot**
+**Full-Stack Engineer**  
+*Building enterprise solutions*
+
+🔧 Scaling robust systems  
+💼 Solving complex challenges  
+🚀 Delivering production code
+
+</td>
+<td align="center" width="50%">
+
+### 🎪 **FindTribe**
+**Founder & Lead Developer**  
+*Revolutionizing event experiences*
+
+📱 Smart event navigation  
+🧭 Real-time crowd insights  
+🎯 Google Maps for festivals
+
+</td>
+</tr>
+</table>
+
 
 ---
 
