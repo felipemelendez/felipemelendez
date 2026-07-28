@@ -51,10 +51,10 @@ backend — all of it mine.
 A festival is a hundred thousand people sharing one saturated tower. The whole app is
 designed for that.
 
-- **Local-first data.** 55 SQLite repositories with migrations, eviction policy and
-  session-bound lifecycles. Every screen reads and writes locally first — chat, itineraries,
-  groups, media, lost-and-found, location history. The network is an optimization, not a
-  requirement, and nothing is lost when it disappears mid-write.
+- **Local-first data.** A local SQLite database — 83 tables, versioned migrations, an eviction
+  policy and a session-bound lifecycle. Every screen reads and writes to it first: chat,
+  itineraries, groups, media, lost-and-found, location history. The network is an optimization,
+  not a requirement, and nothing is lost when it disappears mid-write.
 - **Bluetooth LE mesh.** Messages hop phone to phone with delay-tolerant store-and-forward,
   end-to-end encrypted, deduplicated and ordered across hops, durable across app relaunch.
   Proven on device between iPhone and Android. 96 modules.
