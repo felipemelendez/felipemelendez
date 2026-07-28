@@ -1,149 +1,141 @@
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                          README.md                           -->
-<!--      Felipe "FindTribe" Meléndez · Software Visionary        -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<h1 align="center">Felipe Meléndez</h1>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/findtribe/image/upload/v1735304299/ylmynmm99tfocefoapkk.png"
-       alt="FindTribe banner" width="370" height="50"/>
+  <strong>I build entire products — from the pixel to the protocol.</strong>
 </p>
 
 <p align="center">
-  Founder&nbsp;·&nbsp;Full-Stack Engineer&nbsp;·&nbsp;Festival Aficionado<br/>
-  <em>Turning massive crowds into unforgettable, connected experiences.</em>
+  Founder, FindTribe LLC &nbsp;·&nbsp; Full-stack engineer at Pilot &nbsp;·&nbsp; Milpitas, CA
 </p>
 
-<!--   
-<p align="center">
-  <a href="https://github.com/felipemelendez"><img src="https://img.shields.io/github/followers/felipemelendez?label=Follow&style=social" alt="GitHub followers"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/felipemelendez/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://findtribe.app"><img src="https://img.shields.io/badge/FindTribe-Website-ff69b4?logo=product-hunt&style=flat-square" alt="FindTribe Website"/></a>
+<br/>
+
+## FindTribe
+
+Real-time navigation and coordination for large events — festivals, stadiums, marathons, F1.
+Google Maps for events, with a fleet of AI agents on top and a network stack that keeps
+working after the cell towers give out. Commercial product, private repo.
+
+<p>
+  <a href="https://apps.apple.com/us/app/findtribe-ai-event-navigation/id6474096912"><img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Download FindTribe on the App Store"/></a>
+  <a href="https://play.google.com/store/apps/details?id=app.findtribe"><img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get FindTribe on Google Play"/></a>
+  <a href="https://www.findtribe.ai"><img src="https://img.shields.io/badge/findtribe.ai-Visit-1a1a1a?style=flat-square" alt="FindTribe website"/></a>
 </p>
- -->
+
+**5.0 ★** on the App Store · free on iOS and Android
+
+**Solo-built.** Product, design, UX, interface, both apps, the native modules and the
+backend — all of it mine.
+
+<!-- Demo / screenshots go here. -->
+
+<br/>
+
+### Six agents in production
+
+| Agent | What it does |
+|---|---|
+| **Event assistant** | Voice and text. Answers anything about the event — where the short line is, when the headliner goes on — and teaches the app while you use it. Speech-to-speech over OpenAI's Realtime API. |
+| **Itinerary agent** | Talk through your day out loud; it drafts and revises your schedule, then keeps it in sync across your whole group in real time. |
+| **Map builder** | Organizers describe a venue in chat and the agent lays it out — stages, vendors, amenities, zones — without touching a map editor. |
+| **Map scanner** | Photograph the paper map stapled to a fence. Computer vision reads it, calibrates it to real coordinates, and hands back a live interactive map. |
+| **Game master** | Runs location-aware quests and encounters scoped to an event, with geohashed zones and a milestone pipeline. |
+| **Semantic search** | Vector search over an event knowledge base, so answers cite the actual schedule instead of guessing. |
+
+<br/>
+
+### Built to survive no signal
+
+A festival is a hundred thousand people sharing one saturated tower. The whole app is
+designed for that.
+
+- **Local-first data.** 55 SQLite repositories with migrations, eviction policy and
+  session-bound lifecycles. Every screen reads and writes locally first — chat, itineraries,
+  groups, media, lost-and-found, location history. The network is an optimization, not a
+  requirement, and nothing is lost when it disappears mid-write.
+- **Bluetooth LE mesh.** Messages hop phone to phone with delay-tolerant store-and-forward,
+  end-to-end encrypted, deduplicated and ordered across hops, durable across app relaunch.
+  Proven on device between iPhone and Android. 96 modules.
+- **SOS over mesh.** An emergency broadcast that still reaches your people with no internet
+  at all — admission control, carrier targeting and tombstones so it propagates once and
+  stops.
+- **Offline maps.** Mapbox tile packs downloaded and lifecycle-managed ahead of the gates.
+
+<br/>
+
+### Native depth
+
+Six custom native modules in Swift and Kotlin — BLE mesh, BLE proximity, iOS Live Activities,
+offline map switching, diagnostics — because the platform APIs this needs have no React
+Native equivalent. Live Activities put your next set, your friends and an active SOS on the
+lock screen without opening the app. Background geolocation, push delivery, subscriptions and
+organizer sponsorship payments run on a serverless backend with scheduled jobs, event-driven
+triggers and OpenAI function calling.
+
+Around 800 test suites and 11,000 tests cover it.
+
+<br/>
+
+## Open source
+
+### [llm-orchestrator](https://github.com/felipemelendez/llm-orchestrator)
+
+Deploy a coordinated team of AI engineers to any codebase. A Claude Code plugin with a
+structured workflow, two-stage code review, autonomous BLOCKED recovery, and a research gate
+that verifies external APIs against current docs before specs get written.
+
+<p>
+  <a href="https://github.com/felipemelendez/llm-orchestrator"><img src="https://img.shields.io/github/stars/felipemelendez/llm-orchestrator?style=flat-square&label=stars&color=1a1a1a" alt="llm-orchestrator stars"/></a>
+  <img src="https://img.shields.io/badge/license-MIT-1a1a1a?style=flat-square" alt="MIT licensed"/>
+</p>
+
+Smaller experiments in retrieval and agent tooling:
+[`xpo-lm`](https://github.com/felipemelendez/xpo-lm) ·
+[`rag-finance-engine`](https://github.com/felipemelendez/rag-finance-engine) ·
+[`semantic-search-embeddings`](https://github.com/felipemelendez/semantic-search-embeddings) ·
+[`mcp-agent-experiments`](https://github.com/felipemelendez/mcp-agent-experiments)
+
+<br/>
+
+## Other work
+
+**Pilot** — full-stack engineering on financial systems, in production, at scale.
+
+**Earlier ventures** — Phi Entertainment, an immersive planetarium venue concept, and
+PhiTribe, a creative portfolio ecosystem I designed years before Behance was acquired.
+
+**Teaching** — tutoring adults into college and mentoring at-risk youth, recognized with
+congressional commendations.
+
+<br/>
+
+## Stack
+
+TypeScript · Swift · Kotlin · Python · Ruby · C
+<br/>
+React Native / Expo · SQLite · PostgreSQL · Mapbox · OpenAI
+
+<br/>
+
+## Links
+
+**[felipemelendez.com](https://www.felipemelendez.com)** — how I got here, and what I'm curious about.
+
+**[findtribe.ai](https://www.findtribe.ai)** — FindTribe today. The original product shipped at
+**[findtribe.app](https://www.findtribe.app)** as event navigation; the `.ai` domain arrived when the
+agents did. Both are live.
+
+**[LinkedIn](https://www.linkedin.com/in/felipemelendez/)**
+
+<br/>
 
 ---
 
-<h3>🚀 Currently Building</h3>
-<div align="center">
-  <a href="https://findtribe.app">
-    <img src="https://res.cloudinary.com/findtribe/image/upload/v1735303320/ycyci3j8szpahrg42zga.png"
-         alt="FindTribe App Logo" width="150" height="102"/>
-  </a>
-</div>
-
-> *FindTribe turns chaotic events into seamless experiences with smart maps and real-time updates. Think of it like **Google Maps for events.***  
-
-<p align="center"><strong>🧭 <em>Get lost in the moment, not the crowd</em> 🧭</strong></p>
-
----
-
-<h3>🧰 Tech Arsenal</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"            height="55" alt="Python"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="55" alt="C"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="55" alt="TypeScript"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"   height="55" alt="Ruby"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"         height="55" alt="Node.js"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"    height="55" alt="React"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"           height="55" alt="Vue.js"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg" height="55" alt="Expo"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="55" alt="PostgreSQL"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"     height="55" alt="Firebase"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg"         height="55" alt="GitHub"/>
-</p>
-
----
-
-<h3>✨ Highlights</h3>
-
-- 🐞 **Bug-Swatter Extraordinaire:** Nothing thrills me more than hunting down elusive bugs and squashing them for good.  
-- 🤖 **AI Swiss-Army Knife:** I'm incredibly versatile with AI, obsessed with pushing its boundaries and discovering how far it can take us.  
-- 🌌 **Creative Problem Solver:** My best ideas spark while I'm stretched out on the grass, gazing at the stars and wondering *"what if…?"*  
-- 🐾 **Golden Retriever Enthusiast:** Proud dad to two playful goldens—expert fetch partner and master of the belly-rub.
-
----
-
-<!--
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipemelendez&show_icons=true&theme=tokyonight&hide_title=true" alt="Felipe's GitHub stats" height="165"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=felipemelendez&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" height="165"/>
-</p>
-</p>
--->
-
-
-<h3>💼 Where I Make Impact</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/🏢_Pilot-Full--Stack_Engineer-2E86AB?style=for-the-badge&logo=&logoColor=white" alt="Pilot"/>
-</p>
-
-<div align="center">
-<em>Building enterprise solutions that scale</em>
-
-🔧 **Scaling robust systems** • 💼 **Solving complex challenges** • 🚀 **Delivering production code**
-</div>
-
----
-
-<p align="center">
-<img src="https://img.shields.io/badge/🎪_FindTribe-Founder_&_Lead_Dev-FF6B6B?style=for-the-badge&logo=&logoColor=white" alt="FindTribe"/>
-</p>
-
-<div align="center">
-<em>Revolutionizing event experiences</em>
-
-📱 **Smart event navigation** • 🧭 **Real-time crowd insights** • 🎯 **Google Maps for festivals**
-</div>
-
----
-
-<h3>🌱 Exploring Next</h3>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-<h3>🤖 AI-Driven Workflows</h3>
-
-*Helps me level-up faster and tackle increasingly complex problems.*
-
-</td>
-<td align="center" width="33%">
-
-<h3>📡 GPS & Bluetooth Mesh</h3>
-
-*Building ultra-reliable indoor/outdoor positioning for massive crowds.*
-
-</td>
-<td align="center" width="33%">
-
-<h3>🕶️ Augmented Reality</h3>
-
-*Letting people discover hidden gems around them and learn in delightful ways.*
-
-</td>
-</tr>
-</table>
-
----
-
-<h3>🤝 Let's Connect</h3>
-
-<p align="center">
-  &nbsp;
-  <a href="https://www.linkedin.com/in/felipemelendez/"><img src="https://img.shields.io/badge/LinkedIn-Felipe Meléndez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
+  <sub>Best ideas arrive lying in the grass, looking at the stars, wondering <em>what if…</em><br/>
+  Two golden retrievers supervise.</sub>
 </p>
 
 <p align="center">
-  <em>"Great events don't just happen—they're engineered."</em><br/>
-  <strong>— Felipe Meléndez</strong>
+  <em>"Great events don't just happen—they're engineered."</em>
 </p>
-
-<!-- ───────────────────────────────────────────────────────────── -->
