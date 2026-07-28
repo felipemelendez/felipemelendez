@@ -150,9 +150,9 @@ congressional commendations.
 
 ## Links
 
-**[felipemelendez.com](https://www.felipemelendez.com)**. How I got here, and what I'm curious about.
+**[felipemelendez.com](https://www.felipemelendez.com)** — how I got here, and what I'm curious about.
 
-**[findtribe.ai](https://www.findtribe.ai)**. FindTribe today. The original product shipped at
+**[findtribe.ai](https://www.findtribe.ai)** — FindTribe today. The original product shipped at
 **[findtribe.app](https://www.findtribe.app)** as event navigation; the `.ai` domain arrived when the
 agents did. Both are live.
 
@@ -170,5 +170,5 @@ agents did. Both are live.
 </p>
 
 <p align="center">
-  <em>"Great events don't just happen. They're engineered."</em>
+  <em>"Great events don't just happen—they're engineered."</em>
 </p>
