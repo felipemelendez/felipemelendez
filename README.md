@@ -1,13 +1,13 @@
 <h1 align="center">Felipe Meléndez</h1>
 
-<h3 align="center"><em>I code, therefore I am.</em></h3>
-
-<p align="center">
-  <strong>I build entire products, from pixel to protocol.</strong>
-</p>
+<h3 align="center">I build entire products, from pixel to protocol.</h3>
 
 <p align="center">
   Founder, FindTribe LLC &nbsp;·&nbsp; Full-stack engineer at Pilot &nbsp;·&nbsp; Milpitas, CA
+</p>
+
+<p align="center">
+  <em>I code, therefore I am.</em>
 </p>
 
 <br/>
