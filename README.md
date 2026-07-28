@@ -12,6 +12,8 @@
 
 ## FindTribe
 
+<a href="https://apps.apple.com/us/app/findtribe-ai-event-navigation/id6474096912"><img src="media/findtribe-icon.png" width="104" height="104" alt="FindTribe app icon"/></a>
+
 Real-time navigation and coordination for large events — festivals, stadiums, marathons, F1.
 Google Maps for events, with a fleet of AI agents on top and a network stack that keeps
 working after the cell towers give out. Commercial product, private repo.
@@ -22,7 +24,7 @@ working after the cell towers give out. Commercial product, private repo.
   <a href="https://www.findtribe.ai"><img src="https://img.shields.io/badge/findtribe.ai-Visit-1a1a1a?style=flat-square" alt="FindTribe website"/></a>
 </p>
 
-**5.0 ★** on the App Store · free on iOS and Android
+**5.0 ★** on the App Store · free on iOS and Android · shipping since September 2024
 
 **Solo-built.** Product, design, UX, interface, both apps, the native modules and the
 backend — all of it mine.
