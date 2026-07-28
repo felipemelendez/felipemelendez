@@ -6,9 +6,9 @@
   Founder, FindTribe LLC &nbsp;·&nbsp; Full-stack engineer at Pilot &nbsp;·&nbsp; Milpitas, CA
 </p>
 
-<p align="center">
+<h4 align="center">
   <em>I code, therefore I am.</em>
-</p>
+</h4>
 
 <br/>
 
