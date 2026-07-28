@@ -58,9 +58,11 @@ designed for that.
 - **Bluetooth LE mesh.** Messages hop phone to phone with delay-tolerant store-and-forward,
   end-to-end encrypted, deduplicated and ordered across hops, durable across app relaunch.
   Proven on device between iPhone and Android. 96 modules.
-- **SOS over mesh.** An emergency broadcast that still reaches your people with no internet at
-  all, using admission control, carrier targeting and tombstones so it propagates once and
-  stops.
+- **SOS that keeps trying.** One press goes out over the internet and over the mesh at the same
+  time, not one as a fallback for the other. It re-sends until each person is confirmed reached,
+  resumes if the app is force-quit mid-emergency, and when anything is uncertain it errs toward
+  showing the alarm rather than hiding it. Telling your friends you are safe travels both routes
+  the same way.
 - **Offline maps.** Mapbox tile packs downloaded and lifecycle-managed ahead of the gates.
 
 <br/>
