@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Meléndez</h1>
 
 <p align="center">
-  <strong>I build entire products, from the pixel to the protocol.</strong>
+  <strong>I build entire products, from pixel to protocol.</strong>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ structured workflow, two-stage code review, autonomous BLOCKED recovery, and a r
 that verifies external APIs against current docs before specs get written.
 
 <p>
-  <a href="https://github.com/felipemelendez/llm-orchestrator"><img src="https://img.shields.io/github/stars/felipemelendez/llm-orchestrator?style=flat-square&label=stars&color=1a1a1a" alt="llm-orchestrator stars"/></a>
+  <img src="https://img.shields.io/badge/Claude%20Code-plugin-1a1a1a?style=flat-square" alt="Claude Code plugin"/>
   <img src="https://img.shields.io/badge/license-MIT-1a1a1a?style=flat-square" alt="MIT licensed"/>
 </p>
 
