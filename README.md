@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Meléndez</h1>
 
 <p align="center">
-  <strong>I build entire products — from the pixel to the protocol.</strong>
+  <strong>I build entire products, from the pixel to the protocol.</strong>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <a href="https://apps.apple.com/us/app/findtribe-ai-event-navigation/id6474096912"><img src="media/findtribe-icon.png" width="104" height="104" alt="FindTribe app icon"/></a>
 
-Real-time navigation and coordination for large events — festivals, stadiums, marathons, F1.
+Real-time navigation and coordination for large events: festivals, stadiums, marathons, F1.
 Google Maps for events, with a fleet of AI agents on top and a network stack that keeps
 working after the cell towers give out. Commercial product, private repo.
 
@@ -27,7 +27,7 @@ working after the cell towers give out. Commercial product, private repo.
 **5.0 ★** on the App Store · free on iOS and Android · shipping since September 2024
 
 **Solo-built.** Product, design, UX, interface, both apps, the native modules and the
-backend — all of it mine.
+backend. All of it mine.
 
 <!-- Demo / screenshots go here. -->
 
@@ -37,9 +37,9 @@ backend — all of it mine.
 
 | Agent | What it does |
 |---|---|
-| **Event assistant** | Voice and text. Answers anything about the event — where the short line is, when the headliner goes on — and teaches the app while you use it. Speech-to-speech over OpenAI's Realtime API. |
+| **Event assistant** | Voice and text. Answers anything about the event (where the short line is, when the headliner goes on) and teaches the app while you use it. Speech-to-speech over OpenAI's Realtime API. |
 | **Itinerary agent** | Talk through your day out loud; it drafts and revises your schedule, then keeps it in sync across your whole group in real time. |
-| **Map builder** | Organizers describe a venue in chat and the agent lays it out — stages, vendors, amenities, zones — without touching a map editor. |
+| **Map builder** | Organizers describe a venue in chat and the agent lays it out (stages, vendors, amenities, zones) without touching a map editor. |
 | **Map scanner** | Photograph the paper map stapled to a fence. Computer vision reads it, calibrates it to real coordinates, and hands back a live interactive map. |
 | **Game master** | Runs location-aware quests and encounters scoped to an event, with geohashed zones and a milestone pipeline. |
 | **Semantic search** | Vector search over an event knowledge base, so answers cite the actual schedule instead of guessing. |
@@ -51,15 +51,15 @@ backend — all of it mine.
 A festival is a hundred thousand people sharing one saturated tower. The whole app is
 designed for that.
 
-- **Local-first data.** A local SQLite database — 83 tables, versioned migrations, an eviction
-  policy and a session-bound lifecycle. Every screen reads and writes to it first: chat,
-  itineraries, groups, media, lost-and-found, location history. The network is an optimization,
-  not a requirement, and nothing is lost when it disappears mid-write.
+- **Local-first data.** A local SQLite database with 83 tables, versioned migrations, an
+  eviction policy and a session-bound lifecycle. Every screen reads and writes to it first:
+  chat, itineraries, groups, media, lost-and-found, location history. The network is an
+  optimization, not a requirement, and nothing is lost when it disappears mid-write.
 - **Bluetooth LE mesh.** Messages hop phone to phone with delay-tolerant store-and-forward,
   end-to-end encrypted, deduplicated and ordered across hops, durable across app relaunch.
   Proven on device between iPhone and Android. 96 modules.
-- **SOS over mesh.** An emergency broadcast that still reaches your people with no internet
-  at all — admission control, carrier targeting and tombstones so it propagates once and
+- **SOS over mesh.** An emergency broadcast that still reaches your people with no internet at
+  all, using admission control, carrier targeting and tombstones so it propagates once and
   stops.
 - **Offline maps.** Mapbox tile packs downloaded and lifecycle-managed ahead of the gates.
 
@@ -67,10 +67,10 @@ designed for that.
 
 ### Native depth
 
-Six custom native modules in Swift and Kotlin — BLE mesh, BLE proximity, iOS Live Activities,
-offline map switching, diagnostics — because the platform APIs this needs have no React
-Native equivalent. Live Activities put your next set, your friends and an active SOS on the
-lock screen without opening the app. Background geolocation, push delivery, subscriptions and
+Six custom native modules in Swift and Kotlin (BLE mesh, BLE proximity, iOS Live Activities,
+offline map switching, diagnostics), because the platform APIs this needs have no React Native
+equivalent. Live Activities put your next set, your friends and an active SOS on the lock
+screen without opening the app. Background geolocation, push delivery, subscriptions and
 organizer sponsorship payments run on a serverless backend with scheduled jobs, event-driven
 triggers and OpenAI function calling.
 
@@ -91,7 +91,7 @@ that verifies external APIs against current docs before specs get written.
   <img src="https://img.shields.io/badge/license-MIT-1a1a1a?style=flat-square" alt="MIT licensed"/>
 </p>
 
-### [vue/v-if-else-key](https://eslint.vuejs.org/rules/v-if-else-key) — in Vue's official ESLint plugin
+### [vue/v-if-else-key](https://eslint.vuejs.org/rules/v-if-else-key) in Vue's official ESLint plugin
 
 I wrote this rule for `eslint-plugin-vue`. It catches repeated components under `v-if` /
 `v-else-if` / `v-else` that are missing a `key`, and autofixes them. The proposal had been open
@@ -114,12 +114,12 @@ Smaller experiments in retrieval and agent tooling:
 
 ## Other work
 
-**Pilot** — full-stack engineering on financial systems, in production, at scale.
+**Pilot.** Full-stack engineering on financial systems, in production, at scale.
 
-**Earlier ventures** — Phi Entertainment, an immersive planetarium venue concept, and
-PhiTribe, a creative portfolio ecosystem I designed years before Behance was acquired.
+**Earlier ventures.** Phi Entertainment, an immersive planetarium venue concept, and PhiTribe,
+a creative portfolio ecosystem I designed years before Behance was acquired.
 
-**Teaching** — tutoring adults into college and mentoring at-risk youth, recognized with
+**Teaching.** Tutoring adults into college and mentoring at-risk youth, recognized with
 congressional commendations.
 
 <br/>
@@ -139,6 +139,7 @@ congressional commendations.
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"                 height="55" alt="Node.js"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"                 height="55" alt="SQLite"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"         height="55" alt="PostgreSQL"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"             height="55" alt="Firebase"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-icon.svg"                 height="55" alt="Mapbox"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg"                 height="55" alt="GitHub"/>
 </p>
@@ -147,9 +148,9 @@ congressional commendations.
 
 ## Links
 
-**[felipemelendez.com](https://www.felipemelendez.com)** — how I got here, and what I'm curious about.
+**[felipemelendez.com](https://www.felipemelendez.com)**. How I got here, and what I'm curious about.
 
-**[findtribe.ai](https://www.findtribe.ai)** — FindTribe today. The original product shipped at
+**[findtribe.ai](https://www.findtribe.ai)**. FindTribe today. The original product shipped at
 **[findtribe.app](https://www.findtribe.app)** as event navigation; the `.ai` domain arrived when the
 agents did. Both are live.
 
@@ -167,5 +168,5 @@ agents did. Both are live.
 </p>
 
 <p align="center">
-  <em>"Great events don't just happen—they're engineered."</em>
+  <em>"Great events don't just happen. They're engineered."</em>
 </p>
