@@ -116,12 +116,12 @@ Smaller experiments in retrieval and agent tooling:
 
 ## Other work
 
-**Pilot.** Full-stack engineering on financial systems, in production, at scale.
+**Pilot** — full-stack engineering on financial systems, in production, at scale.
 
-**Earlier ventures.** Phi Entertainment, an immersive planetarium venue concept, and PhiTribe,
+**Earlier ventures** — Phi Entertainment, an immersive planetarium venue concept, and PhiTribe,
 a creative portfolio ecosystem I designed years before Behance was acquired.
 
-**Teaching.** Tutoring adults into college and mentoring at-risk youth, recognized with
+**Teaching** — tutoring adults into college and mentoring at-risk youth, recognized with
 congressional commendations.
 
 <br/>
