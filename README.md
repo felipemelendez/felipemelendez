@@ -1,5 +1,7 @@
 <h1 align="center">Felipe Meléndez</h1>
 
+<h3 align="center"><em>I code, therefore I am.</em></h3>
+
 <p align="center">
   <strong>I build entire products, from pixel to protocol.</strong>
 </p>
