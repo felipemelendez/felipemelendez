@@ -6,18 +6,16 @@
   Founder, FindTribe LLC &nbsp;·&nbsp; Full-stack engineer at Pilot &nbsp;·&nbsp; Milpitas, CA
 </p>
 
-<h4 align="center">
-  <em>I code, therefore I am.</em>
-</h4>
-
 <br/>
 
 ## FindTribe
 
 <a href="https://apps.apple.com/us/app/findtribe-ai-event-navigation/id6474096912"><img src="media/findtribe-icon.png" width="104" height="104" alt="FindTribe app icon"/></a>
 
-Real-time navigation and coordination for large events: festivals, stadiums, marathons, F1.
-Google Maps for events, with a fleet of AI agents on top and a network stack that keeps
+**Roam free. Stay close.**
+
+Real-time navigation and coordination for large events: festivals, stadiums, marathons and F1.
+Think Google Maps for events, with six AI agents and a resilient network stack designed to keep
 working after the cell towers give out. Commercial product, private repo.
 
 <p>
@@ -28,23 +26,13 @@ working after the cell towers give out. Commercial product, private repo.
 
 **5.0 ★** on the App Store · free on iOS and Android · shipping since September 2024
 
-**Solo-built.** Product, design, UX, interface, both apps, the native modules and the
-backend. All of it mine.
+**Designed and built end to end:** product, UX, iOS and Android apps, native modules and backend.
 
-<!-- Demo / screenshots go here. -->
-
-<br/>
-
-### Six agents in production
-
-| Agent | What it does |
-|---|---|
-| **Event assistant** | Voice and text. Answers anything about the event (where the short line is, when the headliner goes on) and teaches the app while you use it. Speech-to-speech over OpenAI's Realtime API. |
-| **Itinerary agent** | Talk through your day out loud; it drafts and revises your schedule, then keeps it in sync across your whole group in real time. |
-| **Map builder** | Organizers describe a venue in chat and the agent lays it out (stages, vendors, amenities, zones) without touching a map editor. |
-| **Map scanner** | Photograph the paper map stapled to a fence. Computer vision reads it, calibrates it to real coordinates, and hands back a live interactive map. |
-| **Game master** | Runs location-aware quests and encounters scoped to an event, with geohashed zones and a milestone pipeline. |
-| **Semantic search** | Vector search over an event knowledge base, so answers cite the actual schedule instead of guessing. |
+<p align="center">
+  <img src="media/findtribe-product-map.jpg" width="32%" alt="FindTribe live map helping people find one another even offline"/>&nbsp;
+  <img src="media/findtribe-product-ai.jpg" width="32%" alt="FindTribe AI assistant answering an event question"/>&nbsp;
+  <img src="media/findtribe-product-sos.jpg" width="32%" alt="FindTribe SOS alert continuing to work with zero cellular bars"/>
+</p>
 
 <br/>
 
@@ -79,6 +67,19 @@ organizer sponsorship payments run on a serverless backend with scheduled jobs, 
 triggers and OpenAI function calling.
 
 Around 800 test suites and 11,000 tests cover it.
+
+<br/>
+
+### Six agents in production
+
+| Agent | What it does |
+|---|---|
+| **Event assistant** | Voice and text. Answers anything about the event (where the short line is, when the headliner goes on) and teaches the app while you use it. Speech-to-speech over OpenAI's Realtime API. |
+| **Itinerary agent** | Talk through your day out loud; it drafts and revises your schedule, then keeps it in sync across your whole group in real time. |
+| **Map builder** | Organizers describe a venue in chat and the agent lays it out (stages, vendors, amenities, zones) without touching a map editor. |
+| **Map scanner** | Photograph the paper map stapled to a fence. Computer vision reads it, calibrates it to real coordinates, and hands back a live interactive map. |
+| **Game master** | Runs location-aware quests and encounters scoped to an event, with geohashed zones and a milestone pipeline. |
+| **Semantic search** | Vector search over an event knowledge base, so answers cite the actual schedule instead of guessing. |
 
 <br/>
 
