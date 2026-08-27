@@ -14,9 +14,16 @@
 
 **Roam free. Stay close.**
 
-Real-time navigation and coordination for large events: festivals, stadiums, marathons and F1.
-Think Google Maps for events, with six AI agents and a resilient network stack designed to keep
-working after the cell towers give out. Commercial product, private repo.
+FindTribe began as real-time navigation and coordination for festivals, stadiums, races and
+other massive gatherings.
+
+Then an earthquake in Colombia brought communications down and, for hours, I couldn't reach
+people I love. The mission became bigger: help people find their way—and reach one another—when
+crowds, changing environments or failing infrastructure make that difficult.
+
+Today, FindTribe combines live maps, six AI agents, local-first data, offline navigation,
+encrypted Bluetooth mesh and an SOS path designed to keep trying after cellular service
+disappears. Commercial product, private repo.
 
 <p>
   <a href="https://apps.apple.com/us/app/findtribe-ai-event-navigation/id6474096912"><img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Download FindTribe on the App Store"/></a>
@@ -36,10 +43,11 @@ working after the cell towers give out. Commercial product, private repo.
 
 <br/>
 
-### Built to survive no signal
+### Built for when the network cannot be trusted
 
-A festival is a hundred thousand people sharing one saturated tower. The whole app is
-designed for that.
+A festival can put a hundred thousand people on one saturated tower. An earthquake can take
+towers, roads and familiar landmarks away at once. FindTribe is built for both kinds of
+disruption.
 
 - **Local-first data.** A local SQLite database with 83 tables, versioned migrations, an
   eviction policy and a session-bound lifecycle. Every screen reads and writes to it first:
